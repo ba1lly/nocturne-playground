@@ -1,2 +1,3 @@
 # nocturne-playground
-Nocturne dogfood sandbox
+
+Sandbox repo for Nocturne.
